@@ -6,3 +6,4 @@ regex==2021.8.3
 networkx==2.6.2
 matplotlib==3.4.2
 nltk==3.6.2
+emoji==1.4.2

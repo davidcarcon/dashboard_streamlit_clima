@@ -9,7 +9,7 @@ import networkx as nx
 import emoji
 import matplotlib.pyplot as plt
 import datetime
-#nltk.download('punkt')
+nltk.download('punkt')
 
 def ponColor(texto, cuales):
     tokens = texto.lower().split()
